@@ -1,0 +1,17 @@
+controller\NotificacaoController.class
+repository\NotificacaoRepository.class
+entities\Notificacao.class
+repository\ParteRepository.class
+util\NumeroProcessoGenerator.class
+entities\Parte.class
+service\EnderecoService.class
+entities\CriarNotificacaoRequest.class
+service\CorreiosService.class
+repository\EnderecoRepository.class
+entities\Endereco.class
+service\NotificacaoService.class
+entities\EnderecoCorreios.class
+entities\Processo.class
+com\mycompany\notificacaopje\NotificacaoPJe.class
+util\ParteGenerator.class
+service\ParteService.class
